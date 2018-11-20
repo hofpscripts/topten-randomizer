@@ -2,7 +2,7 @@
 
 The Top Ten Sim Randomizer outputs results in the Top Ten format:
 
-CH
+CH/n/r
 RCH
 other
 other
